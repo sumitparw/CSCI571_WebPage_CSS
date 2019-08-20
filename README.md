@@ -4,3 +4,5 @@ It is a completely static webpage that focuses on Cascading Style Sheets. This w
 The Professor is Marco Papa.
 
 The assignment can be accessed on http://www-scf.usc.edu/~parwal/sumithw3.html
+
+The solution video can be accessed on https://www.youtube.com/watch?v=S77zvpmyjVU&feature=youtu.be
